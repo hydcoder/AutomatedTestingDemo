@@ -1,11 +1,11 @@
 # encoding=utf-8
 
-import unittestdemo
+import NativeScript
 import unittest
 
 
 # 以一个类的维度去执行
-cases = unittest.TestLoader.loadTestsFromTestCase(unittestdemo.MyTestCase)
+cases = unittest.TestLoader.loadTestsFromTestCase(NativeScript.MyTestCase)
 # 可以一次添加多个cases
 my_suite = unittest.TestSuite([cases])
 
