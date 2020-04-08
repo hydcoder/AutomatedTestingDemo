@@ -1,16 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d545971f-bd4b-4dbd-8149-18899b56e87c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/httptestdemo.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hybrid_app/HybridScript.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hybrid_app/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mytestrunner.py" beforeDir="false" afterPath="$PROJECT_DIR$/mytestrunner.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/unittestdemo.py" beforeDir="false" afterPath="$PROJECT_DIR$/NativeScript.py" afterDir="false" />
-    </list>
+    <list default="true" id="d545971f-bd4b-4dbd-8149-18899b56e87c" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,8 +25,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/hybrid_app/HybridScript.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="453">
-              <caret line="49" column="24" lean-forward="true" selection-start-line="49" selection-start-column="24" selection-end-line="49" selection-end-column="24" />
+            <state relative-caret-position="138">
+              <caret line="42" column="35" lean-forward="true" selection-start-line="42" selection-start-column="35" selection-end-line="42" selection-end-column="35" />
               <folding>
                 <element signature="e#18#33#0" expanded="true" />
               </folding>
@@ -237,16 +228,17 @@
       <option name="project" value="LOCAL" />
       <updated>1584441358080</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Native App和Hybrid App自动测试脚本">
+      <created>1586256608588</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1586256608588</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="Unittests_for_HybridScript_MyTestCase_testSearch - 2020.04.07 at 18h 31m 22s.xml">
-      <configuration name="Unittests for HybridScript.MyTestCase.testSearch" configurationId="tests" />
-    </history-entry>
-    <history-entry file="Unittests_for_HybridScript_MyTestCase_testSearch - 2020.04.07 at 18h 31m 54s.xml">
-      <configuration name="Unittests for HybridScript.MyTestCase.testSearch" configurationId="tests" />
-    </history-entry>
     <history-entry file="Unittests_for_HybridScript_MyTestCase_testSearch - 2020.04.07 at 18h 32m 28s.xml">
       <configuration name="Unittests for HybridScript.MyTestCase.testSearch" configurationId="tests" />
     </history-entry>
@@ -271,17 +263,22 @@
     <history-entry file="Unittests_for_HybridScript_MyTestCase_testSearch - 2020.04.07 at 18h 44m 59s.xml">
       <configuration name="Unittests for HybridScript.MyTestCase.testSearch" configurationId="tests" />
     </history-entry>
+    <history-entry file="Unittests_for_HybridScript_MyTestCase_testSearch - 2020.04.07 at 18h 46m 57s.xml">
+      <configuration name="Unittests for HybridScript.MyTestCase.testSearch" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_HybridScript_MyTestCase_testSearch - 2020.04.07 at 18h 48m 07s.xml">
+      <configuration name="Unittests for HybridScript.MyTestCase.testSearch" configurationId="tests" />
+    </history-entry>
   </component>
   <component name="ToolWindowManager">
     <frame x="-1927" y="-6" width="1563" height="845" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24950884" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32959327" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32959327" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -297,7 +294,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="自动化测试脚本以及自动化测试框架unittest" />
-    <option name="LAST_COMMIT_MESSAGE" value="自动化测试脚本以及自动化测试框架unittest" />
+    <MESSAGE value="Native App和Hybrid App自动测试脚本" />
+    <option name="LAST_COMMIT_MESSAGE" value="Native App和Hybrid App自动测试脚本" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/LICENSE">
@@ -412,8 +410,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/hybrid_app/HybridScript.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="453">
-          <caret line="49" column="24" lean-forward="true" selection-start-line="49" selection-start-column="24" selection-end-line="49" selection-end-column="24" />
+        <state relative-caret-position="138">
+          <caret line="42" column="35" lean-forward="true" selection-start-line="42" selection-start-column="35" selection-end-line="42" selection-end-column="35" />
           <folding>
             <element signature="e#18#33#0" expanded="true" />
           </folding>
